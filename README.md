@@ -72,7 +72,7 @@ Generate your ready-to-send cold email</i>
 ***
 <b>🤖 Model Details</b>
 
-The email generation model is built using LLaMA (or your selected LLM). It is optimized for clarity, professionalism, and personalization.
+The email generation model is built using LLaMA. It is optimized for clarity, professionalism, and personalization.
 ***
 <b>📜 License</b>
 
