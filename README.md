@@ -1,7 +1,8 @@
-AI-Powered Cold Email Generator – Job & Client Outreach
+<b>AI-Powered Cold Email Generator – Job & Client Outreach</b>
 
 A lightweight AI-based tool that helps users create clear and personalized cold emails for job applications, client outreach, or sales communication.
 The system uses an LLM backend and custom user inputs to produce polished, ready-to-send messages within seconds.
+***
 
 🔍 What This Project Does
 
