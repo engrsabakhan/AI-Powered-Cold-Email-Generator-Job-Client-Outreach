@@ -56,12 +56,15 @@ AI-Powered-Cold-Email-Generator
 ***
 <b>⚙️ How to Use</b>
 
-<i>Clone the repository
+<i>Clone the repository</i>
+<div align="left"> <button style="background:#0366d6;color:white;border:none;padding:6px 12px;border-radius:6px;font-size:14px;cursor:pointer;"> Copy </button> <pre style="background:#f6f8fa;padding:16px;border-radius:6px;border:1px solid #d0d7de;overflow-x:auto;"> <code> git clone https://github.com/engrsabakhan/AI-Powered-Cold-Email-Generator-Job-Client-Outreach.git cd AI-Powered-Cold-Email-Generator-Job-Client-Outreach </code> </pre> </div>
 
-Install dependencies
+<i>Install dependencies</i>
 <div align="left"> <button style="background:#0366d6;color:white;border:none;padding:6px 12px;border-radius:6px;font-size:14px;cursor:pointer;"> Copy </button> <pre style="background:#f6f8fa;padding:16px;border-radius:6px;border:1px solid #d0d7de;overflow-x:auto;"> <code> pip install -r requirements.txt </code> </pre> </div>
 
-Run the notebook or execute the Python script
+<i>Run the notebook or execute the Python script</i>
+   Run the Streamlit App
+<div align="left"> <button style="background:#0366d6;color:white;border:none;padding:6px 12px;border-radius:6px;font-size:14px;cursor:pointer;"> Copy </button> <pre style="background:#f6f8fa;padding:16px;border-radius:6px;border:1px solid #d0d7de;overflow-x:auto;"> <code> streamlit run Notebook/Home.py </code> </pre> </div>
 
 Enter your details (name, job role, target company, etc.)
 
