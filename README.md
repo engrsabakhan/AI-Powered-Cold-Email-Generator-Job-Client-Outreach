@@ -47,7 +47,7 @@ This project uses LLaMA/LLM models to generate tailored cold emails that match t
 
 🛠️ Git & GitHub
 ***
-📂 Project Structure
+<b>📂 Project Structure</b>
 AI-Powered-Cold-Email-Generator
 
 <img width="215" height="249" alt="image" src="https://github.com/user-attachments/assets/da52374b-76eb-44bc-90e1-f3f400fc7121" />
