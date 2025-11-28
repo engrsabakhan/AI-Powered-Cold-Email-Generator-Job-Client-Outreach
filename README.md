@@ -59,6 +59,7 @@ AI-Powered-Cold-Email-Generator
 <i>Clone the repository
 
 Install dependencies
+<div align="left"> <button style="background:#0366d6;color:white;border:none;padding:6px 12px;border-radius:6px;font-size:14px;cursor:pointer;"> Copy </button> <pre style="background:#f6f8fa;padding:16px;border-radius:6px;border:1px solid #d0d7de;overflow-x:auto;"> <code> pip install -r requirements.txt </code> </pre> </div>
 
 Run the notebook or execute the Python script
 
