@@ -3,7 +3,8 @@
 A smart system that automatically creates personalized, high-quality cold emails for job outreach, client acquisition, and professional networking.
 
 ***
-📑 Table of Contents
+
+<b>📑 Table of Contents</b>
 
 🚀 Overview
 
@@ -19,11 +20,12 @@ A smart system that automatically creates personalized, high-quality cold emails
 
 📜 License
 
-🚀 Overview
+***
+<b>🚀 Overview</b>
 
 This project uses LLaMA/LLM models to generate tailored cold emails that match the recipient’s profile, tone, and industry. It helps professionals write impactful emails within seconds.
-
-🧠 Features
+***
+<b>🧠 Features</b>
 
 ✨ AI-generated cold emails with professional tone
 
@@ -34,8 +36,8 @@ This project uses LLaMA/LLM models to generate tailored cold emails that match t
 🚀 Fast, simple, and easy to use
 
 📁 Clean notebook + Python script implementation
-
-🛠️ Tech Stack
+***
+<b>🛠️ Tech Stack</b>
 
 🐍 Python
 
@@ -44,10 +46,11 @@ This project uses LLaMA/LLM models to generate tailored cold emails that match t
 📓 Jupyter Notebook
 
 🛠️ Git & GitHub
-
+***
 📂 Project Structure
 AI-Powered-Cold-Email-Generator
-│
+
+</pre>
 ├── Notebook/
 │   ├── Home.py
 │   ├── llama_email.py
@@ -59,7 +62,7 @@ AI-Powered-Cold-Email-Generator
 ├── README.md
 ├── LICENSE
 └── .gitignore
-
+</pre>
 ⚙️ How to Use
 
 Clone the repository
